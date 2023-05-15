@@ -1,0 +1,8 @@
+﻿GetWindowThreadProcessId
+OpenProcess
+GetModuleBaseName
+SetWindowsHookEx
+LoadLibrary
+EnumWindows
+GetWindowText
+IsWindow

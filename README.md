@@ -1,0 +1,1 @@
+Not sure why hooking in Windows 11 is not working, so the project will not continue until I have more info.
